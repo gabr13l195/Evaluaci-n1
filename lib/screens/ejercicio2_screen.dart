@@ -41,7 +41,6 @@ class _Ejercicio2ScreenState extends State<Ejercicio2Screen> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Container(
-        //Aqui debo poner una imagen que esta ubicada en assets/images/image1.jpg
         decoration: BoxDecoration(
           image: DecorationImage(
             image: AssetImage('assets/images/image1.jpg'),
